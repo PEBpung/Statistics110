@@ -2,8 +2,8 @@
 [하버드] 확률론 기초 스터디 in Aiffel 👨🏻‍💼
 
 2020.09.10
->>1강- 확률과 셈 원리 (Probability and Counting)
->>2강- 해석을 통한 문제풀이 및 확률의 공리 (Story Proofs, Axioms of Probability)
+>1강- 확률과 셈 원리 (Probability and Counting)  
+2강- 해석을 통한 문제풀이 및 확률의 공리 (Story Proofs, Axioms of Probability)
 
 2020.09.17
 >>3강- Birthday Problem과 확률의 특성 (Birthday Problem, Properties of Probability)
