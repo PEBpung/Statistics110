@@ -10,11 +10,11 @@
 4강- 조건부 확률 (Conditional Probability)
 
 2020.09.24
->5강- 조건부 확률과 전확률정리 (Conditioning Continued, Law of Total Probability)  
-6강- Monty Hall 문제와 심슨의 역설 (Monty Hall, Simpson's Paradox) 
+>5강- [조건부 확률과 전확률정리](https://github.com/PEBpung/Statistics110/blob/master/2020-09-24-statistics/%ED%95%98%EB%B2%84%EB%93%9C%205%EA%B0%95.pdf) (Conditioning Continued, Law of Total Probability)  
+6강- [Monty Hall 문제와 심슨의 역설](https://github.com/PEBpung/Statistics110/blob/master/2020-09-24-statistics/%ED%95%98%EB%B2%84%EB%93%9C%206%EA%B0%95.pdf) (Monty Hall, Simpson's Paradox) 
 
 2020.10.08
->7강- 도박꾼의 파산 문제와 확률변수 (Gambler's Ruin and Random Variables)  
+>7강- [도박꾼의 파산 문제와 확률변수](https://github.com/PEBpung/Statistics110/blob/master/2020-10-08-statistics/%ED%95%98%EB%B2%84%EB%93%9C%207%EA%B0%95.pdf) (Gambler's Ruin and Random Variables)  
 8강- 확률변수와 확률분포 (Random Variables and Their Distributions)
 
 2020.10.15
