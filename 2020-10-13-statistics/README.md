@@ -1,5 +1,3 @@
-# 2020-10-13-statistics
-
 # 10강- 기댓값 (Expectation Continued)
 
 ## 기대값의 선형성 증명 (Linearity)
