@@ -1,5 +1,10 @@
 # 10강- 기댓값 (Expectation Continued)
 
+- **키워드**
+    - `선형성`
+    - `음이항분포(negative binomial)`
+    - `First Success 분포`
+
 ## 기대값의 선형성 증명 (Linearity)
 
 T = X + Y라고 할 때, 아래와 같은 식이 성립해야 선형성이 증명된다.
