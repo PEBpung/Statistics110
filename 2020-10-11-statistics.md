@@ -1,13 +1,3 @@
----
-layout: post
-title: "[Statistics 110] 9강- 기댓값, 지시확률변수와 선형성"
-subtitle : 기대값
-tags: [Statistics]
-author: Kimin Park
-use_math: true
-comments : True
----
-
 # 9강- 기댓값, 지시확률변수와 선형성
 
 - **오늘의 주제**: 평균
