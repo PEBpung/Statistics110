@@ -1,13 +1,3 @@
----
-layout: post
-title: "[Statistics 110] 10강 - 기댓값 (Expectation Continued)"
-subtitle : 기대값
-tags: [Statistics]
-author: Kimin Park
-use_math: true
-comments : True
----
-
 # 10강- 기댓값 (Expectation Continued)
 
 - **키워드**
