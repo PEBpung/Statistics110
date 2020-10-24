@@ -23,3 +23,4 @@
 
 2020.10.22
 >11강- [포아송분포](https://github.com/PEBpung/Statistics110/blob/master/2020-10-18-statistics.md) (poisson approximation/ poisson paradigm)
+12강- 이산, 연속, 균등분포 (Discrete vs. Continuous, the Uniform)
