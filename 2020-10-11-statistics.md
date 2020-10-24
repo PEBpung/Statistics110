@@ -1,3 +1,13 @@
+---
+layout: post
+title: "[Statistics 110] 9강- 기댓값, 지시확률변수와 선형성"
+subtitle : 기대값
+tags: [Statistics]
+author: Kimin Park
+use_math: true
+comments : True
+---
+
 # 9강- 기댓값, 지시확률변수와 선형성
 
 - **오늘의 주제**: 평균
@@ -39,7 +49,7 @@
 
 가중 평균을 간단하게 나타냄.
 
-![Untitled.png](./images/Untitled.png)
+![Untitled.png](/assets/img/2020-10-11-statistics/Untitled.png)
 
 이 정의를 이용하여 다양한 종류의 이산확률변수의 기대값을 구해보자.
 
@@ -47,19 +57,19 @@
 
 `베르누이 확률변수`는 0과 1의 값만을 가질 수 있는 경우이다.
 
-![Untitled%201.png](./images/Untitled%201.png)
+![Untitled%201.png](/assets/img/2020-10-11-statistics/Untitled%201.png)
 
 ### 지시확률변수의 기대값
 
 사건 A의 발생 여부에 종속하여 특정 값(1, 0)을 갖는 변수
 
-![Untitled%202.png](./images/Untitled%202.png)
+![Untitled%202.png](/assets/img/2020-10-11-statistics/Untitled%202.png)
 
 사건 A가 일어나면 1, 그 외에는 0
 
 이 때, `지시확률변수`의 기대값은 사건 A가 일어날 확률과 같은데, 이를 근본적인 다리라고 한다.
 
-![Untitled%203.png](./images/Untitled%203.png)
+![Untitled%203.png](/assets/img/2020-10-11-statistics/Untitled%203.png)
 
 Fundamental Bridge
 
@@ -71,7 +81,7 @@ Fundamental Bridge
 
 - **이산확률변수의 기대값을 이용**
 
-    ![Untitled%204.png](images/Untitled%204.png)
+    ![Untitled%204.png](/assets/img/2020-10-11-statistics/Untitled%204.png)
 
 - **기대값의 선형성을 이용**
 
@@ -81,4 +91,4 @@ $X = X_1+ ... +X_n$ 이기 때문에
 
 $E(X)=n⋅E(X​1​​)=np$ 
 
-![Untitled%205.png](images/Untitled%205.png)
+![Untitled%205.png](/assets/img/2020-10-11-statistics/Untitled%205.png)
