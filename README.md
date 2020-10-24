@@ -18,5 +18,8 @@
 8강- 확률변수와 확률분포 (Random Variables and Their Distributions)
 
 2020.10.15
->9강- [기댓값, 지시확률변수와 선형성](https://github.com/PEBpung/Statistics110/tree/master/2020-10-11-statistics) (Expectation, Indicator Random Variables, Linearity)  
-10강- [기댓값](https://github.com/PEBpung/Statistics110/tree/master/2020-10-13-statistics) (Expectation Continued)
+>9강- [기댓값, 지시확률변수와 선형성](https://github.com/PEBpung/Statistics110/blob/master/2020-10-11-statistics.md) (Expectation, Indicator Random Variables, Linearity)  
+10강- [기댓값](https://github.com/PEBpung/Statistics110/blob/master/2020-10-13-statistics.md) (Expectation Continued)
+
+2020.10.22
+>11강- [포아송분포](https://github.com/PEBpung/Statistics110/blob/master/2020-10-18-statistics.md) (poisson approximation/ poisson paradigm)
